@@ -2,6 +2,11 @@ plugins {
     id 'java'
 }
 
+// Si el nombre de tu proyecto es 247ClubManagementSystem, entonces el nombre del proyecto debe coincidir aquí
+// Si es diferente, asegúrate de reemplazar '247ClubManagementSystem' con el nombre correcto
+group '247ClubManagementSystem'
+version '1.0-SNAPSHOT'
+
 repositories {
     jcenter()
 }
